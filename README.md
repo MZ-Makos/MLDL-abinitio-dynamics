@@ -1,2 +1,4 @@
-# MLDL-abinitio-dynamics
-Update in (ab initio) molecular dynamics field by recent progress in machine learning and deep learning.
+# Awesome machine learning/deep learning in quantum chemistry, molecular dynamics, and Ab initio MD.
+
+1. Protein-ligand interactions and chemical space for drug discovery
+
