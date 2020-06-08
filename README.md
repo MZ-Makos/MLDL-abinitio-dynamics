@@ -12,6 +12,11 @@ Review article about modern computational chemistry methods to explore the chemi
  
  Paper presents an automated approach for the generation of the data set with the target to train a machine learning potentials. The algorithm begins with the reduction of an existing dataset to remove redundant data without loss of accuracy. Then uses the active learning algorithm based on Query by Committee (QBC). 
  
+ [Parkhill et at., The many-body expansion combined with neural networks, J. Chem. Phys. 146, 014106 (2017)](https://doi.org/10.1063/1.4973380)
+ 
+The many-body expansion (MBE) is a common formalism to express many-body energy as a sum of E(one-body), E(two-body), and so on up to E(n-body) energy contributions. In this paper, the MBE was used for methanol clusters using DC-GAN. The descriptors that were used are, the Coulomb Matrix and newly discovered depth map (D-map), which is a depth of field image of a ball-and-stick structure. Using DC-GAN they were able to create a neural network and calculate the energies of the clusters. As the results showed, this method is faster than MP2-MBE. The error of NN-MBE is similar to MP2-MBE. 
+
+ 
  
 
 ### ab initio nanoreactors
