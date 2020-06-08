@@ -12,6 +12,7 @@ Review article about modern computational chemistry methods to explore the chemi
  
  Paper presents an automated approach for the generation of the data set with the target to train a machine learning potentials. The algorithm begins with the reduction of an existing dataset to remove redundant data without loss of accuracy. Then uses the active learning algorithm based on Query by Committee (QBC). 
  
+ 
 
 ### ab initio nanoreactors
 [Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
