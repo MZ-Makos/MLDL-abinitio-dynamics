@@ -1,13 +1,14 @@
 # Awesome machine learning/deep learning in quantum chemistry, molecular dynamics, and Ab initio MD.
 
-### Reviews:
+
+### potentials and reatcion pathways
 
 [Unsleber and Reiher, The Exploration of Chemical Reaction Networks, Annu. Rev. Phys. Chem. 2020. 71:121–42
 First](https://www.annualreviews.org/doi/10.1146/annurev-physchem-071119-040123) 
 
 Review article about modern computational chemistry methods to explore the chemical reactions. It adopts a meta-conceptual perspective aimed at the definition of common general concepts and requirements, such as categorizing mechanistic strategies, and identification of elementary reaction steps and hardly touch upon the natural extension and combination with subsequent kinetic modeling.
 
-### potentials
+
  [Smith, Lubbers, et. al, Less is more: Sampling chemical space with active learning,J. Chem. Phys. 148, 241733 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5023802)
  
  Paper presents an automated approach for the generation of the data set with the target to train a machine learning potentials. The algorithm begins with the reduction of an existing dataset to remove redundant data without loss of accuracy. Then uses the active learning algorithm based on Query by Committee (QBC). 
