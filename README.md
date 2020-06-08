@@ -8,7 +8,17 @@ First](https://www.annualreviews.org/doi/10.1146/annurev-physchem-071119-040123)
 Review article about modern computational chemistry methods to explore the chemical reactions. It adopts ametaconceptual perspective aimed at the definition ofcommon general concepts and requirements, such as categorizing mechanistic strategies, and identification of elementary reaction steps and hardly touch upon the natural extension and combination with subsequent kinetic modeling.
 
 
-### 1. Protein-ligand interactions and chemical space for drug discovery
+### ab initio nanoreactors
+[Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
+
+Nanoreactors uses ab initio molecular dynamic (AIMD) exploring reaction pathways by taking an intermediate stance between physically realistic simulation and rule-based enumeration approaches. <bn>
+The pathways that result from energy refinement are applicable to any thermodynamic setting by providing reaction parameters (for example, concentration, temperature) as input vari- ables to a kinetic model. This
+
+
+
+
+
+### Protein-ligand interactions and chemical space for drug discovery
 
 [SSnet - Secondary Structure based End-to-End Learning model for Protein-Ligand Interaction Prediction](https://www.biorxiv.org/content/10.1101/2019.12.20.884841v1.abstract)
 
