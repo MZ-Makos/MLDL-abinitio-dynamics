@@ -12,7 +12,7 @@ Review article about modern computational chemistry methods to explore the chemi
 [Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
 
 Nanoreactors uses ab initio molecular dynamic (AIMD) exploring reaction pathways by taking an intermediate stance between physically realistic simulation and rule-based enumeration approaches. <bn>
-The pathways that result from energy refinement are applicable to any thermodynamic setting by providing reaction parameters (for example, concentration, temperature) as input vari- ables to a kinetic model. This
+The pathways that result from energy refinement are applicable to any thermodynamic setting by providing reaction parameters (for example, concentration, temperature) as input vari- ables to a kinetic model. Article demonstrates two ab initio nanoreactor simulations. The acetylene nanoreactor simulation undergoes the polymerization, while the Urey-Miller simulation generates a complex network of reactions. This presents a nanoreactor as a purely discovery-based method to generate new chemical insight into the reactions
 
 
 
