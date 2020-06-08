@@ -14,7 +14,11 @@ Review article about modern computational chemistry methods to explore the chemi
 Nanoreactors uses ab initio molecular dynamic (AIMD) exploring reaction pathways by taking an intermediate stance between physically realistic simulation and rule-based enumeration approaches. <bn>
 The pathways that result from energy refinement are applicable to any thermodynamic setting by providing reaction parameters (for example, concentration, temperature) as input vari- ables to a kinetic model. Article demonstrates two ab initio nanoreactor simulations. The acetylene nanoreactor simulation undergoes the polymerization, while the Urey-Miller simulation generates a complex network of reactions. This presents a nanoreactor as a purely discovery-based method to generate new chemical insight into the reactions
 
+### transition metals
 
+[Kulik et al. Accurate Multiobjective Design in a Space of Millions of Transition Metal Complexes with Neural-Network-Driven Efficient Global Optimization, ACS Cent. Sci. 2020, 6, 513−524](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acscentsci.0c00026&ref=pdf) 
+
+This work present ML- and DFT-driven multiobjective transition metal complex design workflow and apply it to redox flow battery (RFB) redox couple discovery.They constructed a 2.8 M compound space of 700k candidate bulky ligands that are expected to form stable complexes with four open shell transition metal ions; and implemented efficient global optimization (EGO) with a two-dimensional expected improvement (EI) criterion to balance exploration and exploitation at the Pareto front. A multitask ANN with latent-distance-based uncertainty quantificatio (UQ) metrics generalizes better than a Gaussian process. 
 
 
 
