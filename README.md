@@ -7,6 +7,10 @@ First](https://www.annualreviews.org/doi/10.1146/annurev-physchem-071119-040123)
 
 Review article about modern computational chemistry methods to explore the chemical reactions. It adopts ametaconceptual perspective aimed at the definition ofcommon general concepts and requirements, such as categorizing mechanistic strategies, and identification of elementary reaction steps and hardly touch upon the natural extension and combination with subsequent kinetic modeling.
 
+### potentials
+ [Smith, Lubbers, et. al, Less is more: Sampling chemical space with active learning,J. Chem. Phys. 148, 241733 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5023802)
+ 
+ 
 
 ### ab initio nanoreactors
 [Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
@@ -19,6 +23,12 @@ The pathways that result from energy refinement are applicable to any thermodyna
 [Kulik et al. Accurate Multiobjective Design in a Space of Millions of Transition Metal Complexes with Neural-Network-Driven Efficient Global Optimization, ACS Cent. Sci. 2020, 6, 513−524](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acscentsci.0c00026&ref=pdf) 
 
 This work present ML- and DFT-driven multiobjective transition metal complex design workflow and apply it to redox flow battery (RFB) redox couple discovery.They constructed a 2.8 M compound space of 700k candidate bulky ligands that are expected to form stable complexes with four open shell transition metal ions; and implemented efficient global optimization (EGO) with a two-dimensional expected improvement (EI) criterion to balance exploration and exploitation at the Pareto front. A multitask ANN with latent-distance-based uncertainty quantificatio (UQ) metrics generalizes better than a Gaussian process. 
+
+### materials
+
+[Xie and Grosmann, Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties,PHYSICAL REVIEW LETTERS 120, 145301 (2018) Crystal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)
+
+The article present a generalized crystal graph convolutional neural networks (CGCNN) framework for representing periodic crystal systems that provides both material property prediction with density functional theory (DFT) accuracy and atomic level chemical insights.
 
 
 
