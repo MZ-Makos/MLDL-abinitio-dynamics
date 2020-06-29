@@ -16,8 +16,14 @@ Review article about modern computational chemistry methods to explore the chemi
  
 The many-body expansion (MBE) is a common formalism to express many-body energy as a sum of E(one-body), E(two-body), and so on up to E(n-body) energy contributions. In this paper, the MBE was used for methanol clusters using DC-GAN. The descriptors that were used are, the Coulomb Matrix and newly discovered depth map (D-map), which is a depth of field image of a ball-and-stick structure. Using DC-GAN they were able to create a neural network and calculate the energies of the clusters. As the results showed, this method is faster than MP2-MBE. The error of NN-MBE is similar to MP2-MBE. 
 
+ [What Does the Machine Learn? Knowledge Representations of Chemical Reactivity 
+Joshua A. Kammeraad, Jack Goetz, Eric A. Walker, Ambuj Tewari, and Paul M. Zimmerman J.](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00721)
  
- 
+In this paper, the performance of two machine learning models NN and SVM were compared with the non-machine-learning model of the Evans-Polanyi relationship. (EP model observes that the difference in activation energy between two reactions of the same family is proportional to the differences of their enthalpy of reaction.)<bn>
+The NN and SVM models show a good correlation between quantum chemical activation energy and machine-learning estimates, Both show similar prediction accuracy. However, ML views reactions categorically rather than by deeper physical relationship. Both are unable to generalize their predictions beyond the specific reaction types that appeared in the input vector. <bn>
+The authors show that replacing ML models by the Evans-Polanyi model slightly outperformed the nonlinear machine-learning models (by about 5% RMSE).
+
+
 
 ### ab initio nanoreactors
 [Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
@@ -47,5 +53,6 @@ The article presents a generalized crystal graph convolutional neural networks (
 
 [Predicting Potential SARS-COV-2 Drugs - In Depth Drug Database Screening Using Deep Neural Network Framework SSnet, Classical
 Virtual Screening and Docking](https://www.researchgate.net/profile/Niraj_Verma8/publication/341647942_Predicting_Potential_SARS-COV-2_Drugs_-_In_Depth_Drug_Database_Screening_Using_Deep_Neural_Network_Framework_SSnet_Classical_Virtual_Screening_and_Docking/links/5ecd0aa04585158592bc093a/Predicting-Potential-SARS-COV-2-Drugs-In-Depth-Drug-Database-Screening-Using-Deep-Neural-Network-Framework-SSnet-Classical-Virtual-Screening-and-Docking.pdf)
+
 
 
