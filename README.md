@@ -1,4 +1,4 @@
-# Awesome machine learning/deep learning in quantum chemistry, molecular dynamics, and Ab initio MD.
+# Awesome machine learning/deep learning updates in quantum chemistry, molecular dynamics, and Ab initio MD.
 
 
 ### potentials and reatcion pathways
