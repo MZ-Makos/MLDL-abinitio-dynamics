@@ -43,7 +43,9 @@ This work present ML- and DFT-driven multiobjective transition metal complex des
 
 ### materials
 [Vassiliki-Alexandra Glezakou, Roger Rousseau, et al. CO Oxidation on Au/TiO2: Condition-Dependent Active Sites and Mechanistic Pathways, J. Am. Chem. Soc. 2016, 138, 10467−10476](https://pubs.acs.org/doi/10.1021/jacs.6b04187)
-Catalytic oxydation of Co is presented on the surface containing TiO_2 supported by Au-nanocluster. 
+
+Catalytic oxidation of CO is presented on the surface containing TiO2 supported by Au-nanocluster. A mechanistic investigation via AIMD simulations and microkinetic modeling was performed to identify a novel single gold atom Mars van Krevelen and hybrid single atom/nanoparticle mechanisms at the cluster/oxide interface. During the course of the reaction, first CO easily attached to the bridged oxygen to form a bend O-C-O intermediate, which in the next step desorb CO2 into a gas phase while the single gold atom returns to the gold nanoparticle indicating that this specific active site exists only in operando. Five possible catalytic routes for CO oxidation that occur on Au/TiO2 nanocatalysts are summarized. 
+
 
 [Xie and Grosmann, Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties,PHYSICAL REVIEW LETTERS 120, 145301 (2018) Crystal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)
 
