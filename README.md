@@ -29,7 +29,7 @@ The authors show that replacing ML models by the Evans-Polanyi model slightly ou
 
 
 
-### ab initio nanoreactors
+### ab initio nanoreactor
 [Martínez et al., Discovering chemistry with an ab initio nanoreactor, Nature Chemistry 2014](https://www.nature.com/articles/nchem.2099)
 
 Nanoreactors use ab initio molecular dynamic (AIMD) exploring reaction pathways by taking an intermediate stance between physically realistic simulation and rule-based enumeration approaches. <bn>
@@ -42,6 +42,8 @@ The pathways that result from energy refinement are applicable to any thermodyna
 This work present ML- and DFT-driven multiobjective transition metal complex design workflow and apply it to redox flow battery (RFB) redox couple discovery. They constructed a 2.8 M compound space of 700k candidate bulky ligands that are expected to form stable complexes with four open-shell transition metal ions; implemented efficient global optimization (EGO) with a two-dimensional expected improvement (EI) criterion to balance exploration and exploitation at the Pareto front. A multitask ANN with latent-distance-based uncertainty quantification (UQ) metrics generalizes better than a Gaussian process. 
 
 ### materials
+[Vassiliki-Alexandra Glezakou, Roger Rousseau, et al. CO Oxidation on Au/TiO2: Condition-Dependent Active Sites and Mechanistic Pathways, J. Am. Chem. Soc. 2016, 138, 10467−10476](https://pubs.acs.org/doi/10.1021/jacs.6b04187)
+
 
 [Xie and Grosmann, Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties,PHYSICAL REVIEW LETTERS 120, 145301 (2018) Crystal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)
 
